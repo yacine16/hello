@@ -8,5 +8,3 @@ suive la branche master du dépôt que vous avez cloné (en supposant que
 le dépôt distant ait une branche master). Lancer git pull récupère généralement 
 les données depuis le serveur qui a été initialement cloné et essaie de les fusionner
  dans votre branche de travail actuel.
- 
- aaaaa
