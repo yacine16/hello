@@ -1,12 +1,10 @@
-Si vous avez créé une branche pour suivre l'évolution d'une branche distante 
+Si vous avez crÃ©Ã© une branche pour suivre l'Ã©volution d'une branche distante 
 (cf. la section suivante et le chapitre 3 pour plus d'information), 
-vous pouvez utiliser la commande git pull qui récupère et fusionne automatiquement 
+vous pouvez utiliser la commande git pull qui rÃ©cupÃ¨re et fusionne automatiquement 
 une branche distante dans votre branche locale. Ce comportement peut 
-correspondre à une méthode de travail plus confortable, sachant que par 
-défaut la commande git clone paramètre votre branche locale pour qu'elle 
-suive la branche master du dépôt que vous avez cloné (en supposant que 
-le dépôt distant ait une branche master). Lancer git pull récupère généralement 
-les données depuis le serveur qui a été initialement cloné et essaie de les fusionner
+correspondre Ã  une mÃ©thode de travail plus confortable, sachant que par 
+dÃ©faut la commande git clone paramÃ¨tre votre branche locale pour qu'elle 
+suive la branche master du dÃ©pÃ´t que vous avez clonÃ© (en supposant que 
+le dÃ©pÃ´t distant ait une branche master). Lancer git pull rÃ©cupÃ¨re gÃ©nÃ©ralement 
+les donnÃ©es depuis le serveur qui a Ã©tÃ© initialement clonÃ© et essaie de les fusionner
  dans votre branche de travail actuel.
-
-il est 22h47 ----bbbb
