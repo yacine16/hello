@@ -9,7 +9,5 @@ le dépôt distant ait une branche master). Lancer git pull récupère général
 les données depuis le serveur qui a été initialement cloné et essaie de les fusionner
  dans votre branche de travail actuel.
 
-
-bbbbb
-ccccc
+abc
 
